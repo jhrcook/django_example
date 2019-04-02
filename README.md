@@ -1,4 +1,4 @@
-# JoshDoesAThing2
+# Django Practice Website
 
 **author:** Joshua H. Cook
 
